@@ -3,9 +3,7 @@ In this project we will be working with a fake advertising data set, indicating 
 
 My Contribution:
 
-1.  Import Libraries: pandas, numpy, matplotlib.pyplot, seaborn
-2.  Create a histogram
-3.  Create a jointplot
-4.  Create a pairplot 
-5.  Predict values for the testing data
-6.  Create a classification report for the model
+1.  Cleaning Data, Removing NaN, Histograms, jointplot, pairplot.
+2.  Logistic-Regression-Model: Fitting Model to the Training Set.
+3.  Train and fit a logistic regression model on the training set
+4.  Predicting Test Set: Test Data Accuracy: 91%. Technical scope – Python.
